@@ -1,0 +1,27 @@
+2024/06/06 22:49:22 open certs/server.crt: The system cannot find the path specified.
+2024/06/06 22:50:04 open certs/server.crt: The system cannot find the path specified.
+2024/06/06 22:53:24 Server is listening on port 8080
+2024/06/06 22:53:40 Message received: merhaba
+
+2024/06/06 22:53:44 Message received: test
+
+2024/06/06 22:53:45 Message received: ls
+
+2024/06/06 22:53:47 Message received: pwd
+
+2024/06/06 22:53:51 Message received: suo
+
+2024/06/06 22:55:18 Server is listening on port 8080
+2024/06/06 22:55:27 Message received: ls
+2024/06/06 22:55:28 Message received: pwd
+2024/06/06 22:56:17 Server is listening on port 8080
+2024/06/06 22:56:26 Message received: dir
+2024/06/06 22:57:33 Server is listening on port 8080
+2024/06/06 22:57:43 Message received: ls
+2024/06/06 22:57:49 Message received: 
+2024/06/06 22:57:49 Error reading message: read tcp [::1]:8080->[::1]:54806: wsarecv: An existing connection was forcibly closed by the remote host.
+2024/06/06 22:59:11 Server is listening on port 8080
+2024/06/06 22:59:23 Message received: dir
+2024/06/06 22:59:25 Message received: ls
+2024/06/06 22:59:27 Message received: pwd
+2024/06/06 22:59:29 Message received: cd
